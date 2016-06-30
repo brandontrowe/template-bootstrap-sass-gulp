@@ -1,0 +1,8 @@
+// import bootstrap base styles
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/_bootstrap";
+
+// overwrite bootstrap variables
+@import "variables";
+
+// import author styles
+@import "main";
