@@ -6,5 +6,8 @@ npm-debug.log*
 # Compiled css
 css/styles.css
 
+# JS dependancies
+js/vendor
+
 # Dependency directories
 node_modules
